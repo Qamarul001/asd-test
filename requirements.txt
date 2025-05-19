@@ -1,5 +1,5 @@
 streamlit 
-face_recognition
+face-recognition
 numpy 
 requests
 datetime
