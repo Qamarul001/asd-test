@@ -1,4 +1,5 @@
-streamlit
-face_recognition
-numpy
+# requirements.txt
+streamlit==1.34.0
+face_recognition @ git+https://github.com/ageitgey/face_recognition.git@v1.3.0
+numpy>=1.23
 requests
